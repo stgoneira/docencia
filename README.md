@@ -5,6 +5,7 @@
 - Jamboard.google.com
 - Socrative.com
 - Edpuzzle.com
+- mermaid.live
 - Genial.ly 
 - Mentimeter.com 
 - Flippity.net 
