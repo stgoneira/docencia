@@ -43,4 +43,4 @@
 
 - **Sé creativo**: busca formas creativas de enseñar los conceptos y herramientas de desarrollo frontend, como la creación de animaciones, juegos interactivos o proyectos colaborativos que involucren a los estudiantes.
 
-- **Actualiza y adapta constantemente**: asegúrate de estar actualizado en las últimas tendencias y herramientas de desarrollo frontend, y adapta constantemente tu metodología de enseñanza para hacerla más efectiva y entretenida.
+- **Actualiza y adapta constantemente**: asegúrate de estar actualizado en las últimas tendencias y herramientas de desarrollo frontend, y adapta constantemente tu metodología de enseñanza para hacerla más efectiva y entretenida. 
