@@ -16,6 +16,18 @@
 - Padlet.com 
 - Kahoot 
 
+## Developer Tools 
+
+**CodePen**: CodePen is a popular online code editor that allows you to create and share front-end web development projects. It provides a robust set of features for building, testing, and sharing HTML, CSS, and JavaScript code snippets.
+
+**JS Bin**: JS Bin is an online code editor that lets you write and test HTML, CSS, and JavaScript code in real-time. It offers a simple, intuitive interface that allows you to quickly prototype and test your code.
+
+**JSFiddle**: JSFiddle is an online code editor and compiler that lets you test and debug HTML, CSS, and JavaScript code in real-time. It offers a clean and simple interface that is ideal for quick testing and experimentation.
+
+**Repl.it**: Repl.it is a powerful online code editor that lets you code in multiple programming languages, including HTML, CSS, and JavaScript. It offers an integrated development environment (IDE) with features like real-time collaboration, version control, and code sharing.
+
+**Dabblet**: Dabblet is a simple online code editor that lets you experiment with HTML, CSS, and JavaScript code. It offers a live preview of your code and allows you to share your work with others.
+
 
 ## Tips 
 
